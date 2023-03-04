@@ -7,4 +7,6 @@
 
 ## 👩‍💻 Current Tech Stack
 
-- https://elixir-lang.org/
+- [Elixir](https://elixir-lang.org/): Web Projects with [Phoenix](https://phoenixframework.org)
+- [Wren](https://wren.io): Games using [DOME](https://domeengine.com) and [TIC80](https://tic80.com)
+- [Jasonelle](https://jasonelle.com): Mobile Apps using a WebView.
